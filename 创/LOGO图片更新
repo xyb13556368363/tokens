@@ -1,0 +1,13 @@
+@@ -0,0 +1,11 @@
+{
+ "name": "GTSC",
+ "website": "无",
+ "description": "GTSC (GTSC)
+太空银河通证币：GTSC，流通量：5000亿枚；将打造独特的商业模式和未来太空飞行计划；适合人类在太空中工作和生活的空间。太空银河通证币GTSC即将作为太空的通用货币",
+ "explorer": "https://tronscan.io/#/token20/TTq5jUHenWvbKXk4SmqFyXQtr6pig93oeJ",
+ "type": "TRC20",
+ "symbol": "GTSC",
+ "decimals": 7,
+ "status": "active",
+ "id": "TTq5jUHenWvbKXk4SmqFyXQtr6pig93oeJ"
+} 
